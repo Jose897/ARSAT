@@ -6,7 +6,7 @@ Trabajo Práctico de Organización de Datos
 * **Integrante 1** - [Dylan Ledesma](Link_en_github)
 * **Integrante 2** - [Matías Huenul](Link_en_github)
 * **Integrante 3** - [Facundo Ferrero](Link_en_github)
-* **Integrante 4** - [Jose Ramirez](htts://github.com/Jose897)
+* **Integrante 4** - [Jose Ramirez](https://github.com/Jose897)
 
 **Corrector:** [nombre](Link_en_gitHub)
 

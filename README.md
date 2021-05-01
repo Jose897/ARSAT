@@ -3,10 +3,10 @@ Trabajo Práctico de Organización de Datos
 
 ## Grupo ARSAT
 
-* **Integrante 1** - [nombre1](Link_en_github)
-* **Integrante 2** - [nombre1](Link_en_github)
-* **Integrante 3** - [nombre1](Link_en_github)
-* **Integrante 4** - [nombre1](Link_en_github)
+* **Integrante 1** - [Dylan Ledesma](Link_en_github)
+* **Integrante 2** - [Matías Huenul](Link_en_github)
+* **Integrante 3** - [Facundo Ferrero](Link_en_github)
+* **Integrante 4** - [Jose Ramirez](htts://github.com/Jose897)
 
 **Corrector:** [nombre](Link_en_gitHub)
 

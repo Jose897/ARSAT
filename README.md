@@ -1,22 +1,22 @@
 # ARSAT
 Trabajo Práctico de Organización de Datos 
 
-##Grupo ARSAT
+## Grupo ARSAT
 
-* ** Integrante 1 ** - [nombre1]_(Link_en_github)
-* ** Integrante 2 ** - [nombre1]_(Link_en_github)
-* ** Integrante 3 ** - [nombre1]_(Link_en_github)
-* ** Integrante 4 ** - [nombre1]_(Link_en_github)
+* **Integrante 1** - [nombre1](Link_en_github)
+* **Integrante 2** - [nombre1](Link_en_github)
+* **Integrante 3** - [nombre1](Link_en_github)
+* **Integrante 4** - [nombre1](Link_en_github)
 
-** Corrector ** [nombre]_(Link_en_gitHub)
+**Corrector:** [nombre](Link_en_gitHub)
 
-Listado de software / herramientas necesarias para el proyecto
+Listado de software/herramientas necesarias para el proyecto
 
-''
+```
 Python
 Pandas software
 ...
-''
+```
 
 ### Informe
 
@@ -24,7 +24,7 @@ Pandas software
 
 ## Ejecutando
 
-- ** Pasos: **
+- **Pasos:**
 	1.
 	2.
 	3.
@@ -32,10 +32,13 @@ Pandas software
 
 ## Convenciones
 
-- ** Compromisos: **
-	- dos: Documentación
-	- feat: Nueva funcionalidad
-	- 
+- **Compromisos:**
+	- dos: documentación
+	- feat: nueva funcionalidad
+	- fix: arreglo de algún bug
+	- refactor: refactorización
+	- chore: cualquier otra que no clasifique en las anteriores
+
 ## Licencia
 
 Este repositorio esta bajo la licencia MIT

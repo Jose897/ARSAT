@@ -3,9 +3,9 @@ Trabajo Práctico de Organización de Datos
 
 ## Grupo ARSAT
 
-* **Integrante 1** - [Dylan Ledesma](Link_en_github)
-* **Integrante 2** - [Matías Huenul](Link_en_github)
-* **Integrante 3** - [Facundo Ferro](Link_en_github)
+* **Integrante 1** - [Dylan Ledesma](https://github.com/dyylanl)
+* **Integrante 2** - [Matías Huenul](https://github.com/matias-07)
+* **Integrante 3** - [Facundo Ferro](https://github.com/FaqundoWerden)
 * **Integrante 4** - [Jose Ramirez](https://github.com/Jose897)
 
 **Corrector:** [nombre](Link_en_gitHub)
@@ -33,7 +33,7 @@ Pandas software
 ## Convenciones
 
 - **Compromisos:**
-	- dos: documentación
+	- docs: documentación
 	- feat: nueva funcionalidad
 	- fix: arreglo de algún bug
 	- refactor: refactorización
